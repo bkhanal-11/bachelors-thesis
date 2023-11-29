@@ -25,6 +25,21 @@ lation in linear noise while it outperforms those constellation in non-linear
 noise. The results are then veriﬁed using analysis on constellation of simple
 Pulse-amplitude Modulation (PAM).
 
+### Repository Content
+
+```
+├── docs
+│   └── Bachelors-Thesis-BK.pdf
+├── README.md
+└── src
+    ├── 16QAM
+    │   └── 16QAM-AEC.ipynb
+    └── 4PAM
+        ├── 4PAM-AEC.ipynb
+        └── matlab
+            └── BFO.m
+```
+
 To cite this work use the following:
 
 ```
